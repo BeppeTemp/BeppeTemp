@@ -9,6 +9,11 @@ My name is Giuseppe, 22 y/o (for friends Beppe or BeppeTemp). I have a degree in
 * 🚀 Space
 * 📡 Tecnology and science in general
 
+##And here's where you can find me...
+*globe_with_meridians Website: https://fumaz.dev
+*🎙 Discord: @BeppeTemp#0511
+*📫 Telegram: @BeppeTemp
+
 <!--
 **BeppeTemp/BeppeTemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
