@@ -4,7 +4,7 @@ My name is Giuseppe, 22 y/o (for friends Beppe or BeppeTemp). I have a degree in
 
 * 👨🏻‍💻 Programming
 * 🖨 3D Printing
-* 🌆 Computer grafichs
+* 🌆 Computer graphics
 * 🕹 Videogame
 * 🚀 Space
 * 📡 Tecnology and science in general
