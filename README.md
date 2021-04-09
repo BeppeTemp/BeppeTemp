@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Giuseppe, 22 y/o (for friends Beppe or BeppeTemp). I have a bachelor's degree in Computer Science 👨‍🎓 and I am currently studying Cloud Computing ☁️ for my master's degree. I am a nerd 🤓 and I have a lot of interests in:
+My name is Giuseppe, 22 y/o (for friends Beppe or BeppeTemp). I have a bachelor degree in Computer Science 👨‍🎓 and I am currently studying Cloud Computing ☁️ for my master's degree. I am a nerd 🤓 and I have a lot of interests in:
 
 * 👨🏻‍💻 Programming
 * 🖨 3D Printing
