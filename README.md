@@ -9,7 +9,7 @@ My name is Giuseppe, 22 y/o (for friends Beppe or BeppeTemp). I have a bachelor 
 * 🚀 Space
 * 📡 Technology and science in general
 
-##### And here's where you can find me...
+And here's where you can find me...
 * 🎙 Discord: @BeppeTemp#0511
 * 📫 Telegram: @BeppeTemp
 
