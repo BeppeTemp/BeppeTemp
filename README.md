@@ -13,6 +13,7 @@ And here's where you can find me...
 
 - 🎙 Discord: @BeppeTemp#0511
 - 📫 Telegram: @BeppeTemp
+- 🏢 Linked: https://www.linkedin.com/in/garienzo/
 
 ## 🛠️ Technologies and Tools
 
