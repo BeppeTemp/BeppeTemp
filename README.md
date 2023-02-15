@@ -1,6 +1,6 @@
 ## Salve a tutti 👋
 
-Mi chiamo Giuseppe (Per gli amici Beppe o Beppetemp), 23 anni. Ho una laurea triennale in informatica 👨‍🎓 e sto attualmente terminando la laurea magistrale, sempre in informatica con specializzazione in Cloud Computing. Sono un Nerd 🤓 e i miei interessi spazziano in:
+Mi chiamo Giuseppe (Per gli amici Beppe o Beppetemp), 24 anni. Ho una laurea triennale in informatica 👨‍🎓 e sto attualmente terminando la laurea magistrale, sempre in informatica con specializzazione in Cloud Computing. Sono un Nerd 🤓 e i miei interessi spazziano in:
 
 - 👨🏻‍💻 Programmazione
 - 🖨 Stampa 3D
